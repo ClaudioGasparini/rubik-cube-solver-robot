@@ -1,1 +1,1 @@
-# rubik-cube-solver-robot
+# Rubik cube solver robot
